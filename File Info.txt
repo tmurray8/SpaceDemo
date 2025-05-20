@@ -1,0 +1,5 @@
+Original files freely available from  http://www.html5rocks.com/en/tutorials/canvas/notearsgame/
+Original code by Daniel X. Moore
+Bugs added (not by Daniel) May 2014 for convenience
+All the JavaScript you need to edit for CIS 235/CIS 269 is in index.html
+

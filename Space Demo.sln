@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3A5A3986-98F8-4154-BC15-53194819DCD0}"
+	ProjectSection(SolutionItems) = preProject
+		File Info.txt = File Info.txt
+		index.html = index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{A3FAEA94-73DD-4232-B540-136C4F55430B}"
+	ProjectSection(SolutionItems) = preProject
+		images\enemy.png = images\enemy.png
+		images\player.png = images\player.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "javascripts", "javascripts", "{ADBF7B49-5904-4703-80DA-C329C700EB0F}"
+	ProjectSection(SolutionItems) = preProject
+		javascripts\jquery.hotkeys.js = javascripts\jquery.hotkeys.js
+		javascripts\key_status.js = javascripts\key_status.js
+		javascripts\sound.js = javascripts\sound.js
+		javascripts\sprite.js = javascripts\sprite.js
+		javascripts\util.js = javascripts\util.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sounds", "sounds", "{0EBF0BDF-DDF4-4F6A-A475-8A5187567474}"
+	ProjectSection(SolutionItems) = preProject
+		sounds\explosion.mp3 = sounds\explosion.mp3
+		sounds\explosion.wav = sounds\explosion.wav
+		sounds\shoot.mp3 = sounds\shoot.mp3
+		sounds\shoot.wav = sounds\shoot.wav
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "stylesheets", "stylesheets", "{16F48EF3-FE0C-4A80-B0BD-F93665EF8935}"
+	ProjectSection(SolutionItems) = preProject
+		stylesheets\screen.css = stylesheets\screen.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A3FAEA94-73DD-4232-B540-136C4F55430B} = {3A5A3986-98F8-4154-BC15-53194819DCD0}
+		{ADBF7B49-5904-4703-80DA-C329C700EB0F} = {3A5A3986-98F8-4154-BC15-53194819DCD0}
+		{0EBF0BDF-DDF4-4F6A-A475-8A5187567474} = {3A5A3986-98F8-4154-BC15-53194819DCD0}
+		{16F48EF3-FE0C-4A80-B0BD-F93665EF8935} = {3A5A3986-98F8-4154-BC15-53194819DCD0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3687953-CD4D-4AD8-9C87-0615458EF329}
+	EndGlobalSection
+EndGlobal
